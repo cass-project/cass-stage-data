@@ -1,0 +1,67 @@
+[{
+  "id": 1,
+  "profile_id": 1,
+  "email": "coffeeturbo@gmail.com",
+  "avatar": "558aa812346bb.jpeg",
+  "username": "Вячеслав",
+  "nickname": "coffeeturbo",
+  "patronymic": "Геннадьевич",
+  "surname": "Савушкин",
+  "gender": "0"
+ },
+ {
+  "id": 2,
+  "profile_id": 2,
+  "email": "dad@boba.ru",
+  "avatar": "55895a4a43dab.jpeg",
+  "username": "Андрей",
+  "nickname": "Andrey",
+  "patronymic": "Анатольевич",
+  "surname": "Чернов",
+  "gender": "мужской"
+ },
+ {
+  "id": 3,
+  "profile_id": 3,
+  "email": "qsstudio@me.com",
+  "avatar": "561ba6ea16632.jpeg",
+  "username": "Дельфуза",
+  "nickname": "duckdcudkcd",
+  "patronymic": "Шарафудиновна",
+  "surname": "Ахметова",
+  "gender": "0"
+ },
+ {
+  "id": 126,
+  "profile_id": 115,
+  "email": "fdouglas@gmail.com",
+  "avatar": "115346675512535.jpg",
+  "username": "Елисеева",
+  "nickname": "Qurvaka",
+  "patronymic": "Авдеевна",
+  "surname": "Венера",
+  "gender": "1"
+ },
+ {
+  "id": 127,
+  "profile_id": 116,
+  "email": "olin.grant@gmail.com",
+  "avatar": "56a737acd7e78.jpeg",
+  "username": "Волков",
+  "nickname": "wolf",
+  "patronymic": "Артемович",
+  "surname": "Игорь",
+  "gender": "0"
+ },
+ {
+  "id": 128,
+  "profile_id": 117,
+  "email": "hank54@hotmail.com",
+  "avatar": "227995_862530260892_7350989_n.jpg",
+  "username": "Пестов",
+  "nickname": "pestov",
+  "patronymic": "Павлович",
+  "surname": "Антон",
+  "gender": "0"
+ }
+]
