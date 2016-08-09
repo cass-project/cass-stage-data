@@ -35,7 +35,7 @@
 		"patronymic" : "Шарафудиновна",
 		"surname" : "Ахметова",
 		"gender" : "0",
-		"birthday" : NULL,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1345,10 +1345,10 @@
 		"avatar" : "56151ea2f00c2.jpeg",
 		"username" : "Александр",
 		"nickname" : "Александр",
-		"patronymic" : NULL,
+		"patronymic" : null,
 		"surname" : "Романов",
 		"gender" : "0",
-		"birthday" : NULL,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1358,8 +1358,8 @@
 		"avatar" : "55c0d820aaf2e.jpeg",
 		"username" : "Торговец",
 		"nickname" : "Профиль 2",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "0",
 		"birthday" : "2012-04-04",
 		"interests" : []
@@ -1371,8 +1371,8 @@
 		"avatar" : "55e95efa73473.jpeg",
 		"username" : "Сильвер",
 		"nickname" : "Сильвер",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "0",
 		"birthday" : "1964-07-25",
 		"interests" : []
@@ -1384,10 +1384,10 @@
 		"avatar" : "56128d2dd740e.jpeg",
 		"username" : "Лали",
 		"nickname" : "Лали",
-		"patronymic" : NULL,
-		"surname" : NULL,
-		"gender" : NULL,
-		"birthday" : NULL,
+		"patronymic" : null,
+		"surname" : null,
+		"gender" : null,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1397,8 +1397,8 @@
 		"avatar" : "56812aa4b525d.jpeg",
 		"username" : "VRUD",
 		"nickname" : "VRUD",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "1",
 		"birthday" : "1953-09-09",
 		"interests" : []
@@ -1410,8 +1410,8 @@
 		"avatar" : "56826d9dca24f.jpeg",
 		"username" : "Valentina",
 		"nickname" : "Valentina",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "1",
 		"birthday" : "1984-10-07",
 		"interests" : []
@@ -1423,8 +1423,8 @@
 		"avatar" : "56827108e874a.jpeg",
 		"username" : "Nick",
 		"nickname" : "Nick",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "0",
 		"birthday" : "1995-07-06",
 		"interests" : []
@@ -1436,10 +1436,10 @@
 		"avatar" : "569126464955d.jpeg",
 		"username" : "massage",
 		"nickname" : "massage",
-		"patronymic" : NULL,
-		"surname" : NULL,
-		"gender" : NULL,
-		"birthday" : NULL,
+		"patronymic" : null,
+		"surname" : null,
+		"gender" : null,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1449,8 +1449,8 @@
 		"avatar" : "5693bc0d988f3.jpeg",
 		"username" : "Artem",
 		"nickname" : "Artem",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "0",
 		"birthday" : "1987-12-15",
 		"interests" : []
@@ -1475,7 +1475,7 @@
 		"avatar" : "5693be0be5b1e.jpeg",
 		"username" : "Алексей",
 		"nickname" : "MadMolo4nik",
-		"patronymic" : NULL,
+		"patronymic" : null,
 		"surname" : "Петровский",
 		"gender" : "0",
 		"birthday" : "1988-08-05",
@@ -1488,10 +1488,10 @@
 		"avatar" : "5693c2a5efcaf.jpeg",
 		"username" : "Сильвер",
 		"nickname" : "Сильвер",
-		"patronymic" : NULL,
-		"surname" : NULL,
-		"gender" : NULL,
-		"birthday" : NULL,
+		"patronymic" : null,
+		"surname" : null,
+		"gender" : null,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1501,10 +1501,10 @@
 		"avatar" : "5694daa2a6cf9.jpeg",
 		"username" : "Таня",
 		"nickname" : "Таня",
-		"patronymic" : NULL,
-		"surname" : NULL,
-		"gender" : NULL,
-		"birthday" : NULL,
+		"patronymic" : null,
+		"surname" : null,
+		"gender" : null,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
@@ -1514,10 +1514,10 @@
 		"avatar" : "56a08b7697a83.jpeg",
 		"username" : "olga A",
 		"nickname" : "olga A",
-		"patronymic" : NULL,
-		"surname" : NULL,
+		"patronymic" : null,
+		"surname" : null,
 		"gender" : "1",
-		"birthday" : NULL,
+		"birthday" : null,
 		"interests" : []
 	},
 	{
